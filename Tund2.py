@@ -51,3 +51,4 @@ except:
    print(f"Ringi pindala on {Sk}\nRingi ümbermõõt on {Lk}\nRuudu pindala on {Skv}\nRuudu ümbermõõt on {Lkv}")
 except:
     print("On vaja number!")
+#3333
